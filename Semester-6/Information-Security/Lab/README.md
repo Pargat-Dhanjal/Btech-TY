@@ -1,0 +1,25 @@
+# Lab
+
+## Files
+
+- [16010121045-Pargat-IS-EXP3.docx](16010121045-Pargat-IS-EXP3.docx)
+- [16010121045-Pargat-IS-EXP3.pdf](16010121045-Pargat-IS-EXP3.pdf)
+- [16010121045-Pargat-IS-Exp-1.docx](16010121045-Pargat-IS-Exp-1.docx)
+- [16010121045-Pargat-IS-Exp-1.pdf](16010121045-Pargat-IS-Exp-1.pdf)
+- [16010121045-Pargat-IS-Exp-2.docx](16010121045-Pargat-IS-Exp-2.docx)
+- [16010121045-Pargat-IS-Exp-2.pdf](16010121045-Pargat-IS-Exp-2.pdf)
+- [16010121045-Pargat-IS-Exp10.docx](16010121045-Pargat-IS-Exp10.docx)
+- [16010121045-Pargat-IS-Exp10.pdf](16010121045-Pargat-IS-Exp10.pdf)
+- [16010121045-Pargat-IS-Exp3Honeypot.docx](16010121045-Pargat-IS-Exp3Honeypot.docx)
+- [16010121045-Pargat-IS-Exp3Honeypot.pdf](16010121045-Pargat-IS-Exp3Honeypot.pdf)
+- [16010121045-Pargat-IS-Exp4.docx](16010121045-Pargat-IS-Exp4.docx)
+- [16010121045-Pargat-IS-Exp4.pdf](16010121045-Pargat-IS-Exp4.pdf)
+- [16010121045-Pargat-IS-Exp5.docx](16010121045-Pargat-IS-Exp5.docx)
+- [16010121045-Pargat-IS-Exp5.pdf](16010121045-Pargat-IS-Exp5.pdf)
+- [16010121045-Pargat-IS-Exp6.docx](16010121045-Pargat-IS-Exp6.docx)
+- [16010121045-Pargat-IS-Exp6.pdf](16010121045-Pargat-IS-Exp6.pdf)
+- [16010121045-Pargat-IS-Exp7.docx](16010121045-Pargat-IS-Exp7.docx)
+- [16010121045-Pargat-IS-Exp7.pdf](16010121045-Pargat-IS-Exp7.pdf)
+- [16010121045-Pargat-IS-Exp8.docx](16010121045-Pargat-IS-Exp8.docx)
+- [16010121045-Pargat-IS-Exp8.pdf](16010121045-Pargat-IS-Exp8.pdf)
+- [TY IS- Lab Journal Jan 2024 - Writeup Template.docx](TY%20IS-%20Lab%20Journal%20Jan%202024%20-%20Writeup%20Template.docx)
